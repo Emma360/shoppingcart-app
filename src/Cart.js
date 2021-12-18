@@ -58,7 +58,6 @@ const Cart = () => {
                   </tr>
                 );
               })}
-              ;
             </tbody>
           </table>
         </div>
