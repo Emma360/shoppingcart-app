@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
       <h1 className="text-center mt-3">
-        <h1>Onyedika Fruits Store </h1>
+        <h1> Lucia Mateus Paula </h1>
         All Items{" "}
       </h1>
       <section className="py-4 container">
